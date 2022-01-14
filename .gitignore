@@ -1,1 +1,4 @@
 .github/**
+
+# exculde .csv files
+*.csv
