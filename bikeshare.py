@@ -210,8 +210,8 @@ def main():
         # to handle user experience
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("Bye")
             break
-
 
 if __name__ == "__main__":
 	main()
