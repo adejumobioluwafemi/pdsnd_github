@@ -1,17 +1,31 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
-Include the date you created this project and README file.
+14/01/2022
 
 ### Project Title
-Replace the Project Title
+Python Script to Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project Uses Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses and filter for a dataset to analyze.
 
-### Files used
-Include the files used
+### Datasets
+Randomly selected data for the first six months of 2017 are provided for all three cities (Washington, New York City, Chicago). All three of the data files contain the same core six (6) columns:
+
+Start Time (e.g., 2017-01-01 00:07:57)
+End Time (e.g., 2017-01-01 00:20:53)
+Trip Duration (in seconds - e.g., 776)
+Start Station (e.g., Broadway & Barry Ave)
+End Station (e.g., Sedgwick St & North Ave)
+User Type (Subscriber or Customer)
+
+The Chicago and New York City files also have the following two columns:
+
+Gender
+Birth Year
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+codegrepper: https://codegrepper.com/
+
+stackoverflow: https://datascience.stackexchange.com/ 
 
