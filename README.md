@@ -26,7 +26,8 @@ Birth Year
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-codegrepper: https://codegrepper.com/
-stackoverflow: https://datascience.stackexchange.com/ 
 
+codegrepper: https://codegrepper.com/
+
+stackoverflow: https://datascience.stackexchange.com/ 
 
